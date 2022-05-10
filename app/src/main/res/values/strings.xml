@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Transparent activity</string>
+    <string name="hello_i_am_transparent_activity">Hello! I am Transparent Activity</string>
+</resources>
